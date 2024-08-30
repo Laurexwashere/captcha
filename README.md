@@ -1,2 +1,2 @@
 # captcha
-asd
+Captcha js
